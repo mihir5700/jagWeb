@@ -494,8 +494,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #hero .play-btn {
-  width: 94px;
-  height: 94px;
+  width: 80px;
+  height: 80px;
   background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
@@ -1243,7 +1243,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #1336b6;
+  color: #020922;
 }
 #contact .contact-info a {
   color: #b5c1ee;
