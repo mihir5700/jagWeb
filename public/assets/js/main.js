@@ -183,15 +183,15 @@
         spaceBetween: 20
       },
       575: {
-        slidesPerView: 2,
+        slidesPerView: 1,
         spaceBetween: 20
       },
       768: {
-        slidesPerView: 3,
+        slidesPerView: 2,
         spaceBetween: 20
       },
       992: {
-        slidesPerView: 5,
+        slidesPerView: 4,
         spaceBetween: 20
       }
     }
